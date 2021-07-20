@@ -158,4 +158,8 @@ Thank you for your contribution! :blush:
   Rajaraman and J. D. Ullman. This book contains most of the topics of the
   course which are not covered by the other book (**freely available online**).
   - If you are following also the Algorithm Engineering course at University of
-  Pisa, check out [this other exercises repository](https://github.com/flandolfi/ALE-exercises)!
+  Pisa, check out [this other exercises repository](https://github.com/flandolfi/ALE-exercises:WQ
+  )
+  :wq 
+
+    
